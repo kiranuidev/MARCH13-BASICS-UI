@@ -48,6 +48,7 @@
     btnRegister.addEventListener("click",registerUser);
     age.addEventListener("keypress",numbersOnly);
     fName.addEventListener("keypress",alphabetsOnly);
+    lName.addEventListener("keypress",alphabetsOnly);
     
 })();
 
