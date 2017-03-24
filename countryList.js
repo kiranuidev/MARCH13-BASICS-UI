@@ -2,7 +2,7 @@
     
     var countries=[{name:"India",code:"IN"},
                   {name:"United States",code:"USA"}];
-    
+   
     function buildOptionTag(data){
         console.log(data);
         var option= document.createElement("option");
